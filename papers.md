@@ -1,5 +1,4 @@
-# List of papers I've found enlightening, separated by topic.
-
+# List of papers I've found interesting
 ## Generative modelling
 
 [Auto-Encoding Variational Bayes - Kingma and Welling]
