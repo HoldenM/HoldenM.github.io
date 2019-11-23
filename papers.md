@@ -1,4 +1,4 @@
-# List of papers I've found interesting
+# Papers I've found interesting
 ## Generative modelling
 
 ### Summaries
