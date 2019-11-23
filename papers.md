@@ -6,7 +6,9 @@
 
 ### Original papers
 VAE [Auto-Encoding Variational Bayes - Kingma and Welling]
+
 GAN [Generative Adversarial Nets - Goodfellow et al]
+
 Flow-based [NICE: Non-linear Independent Components Estimation - Dinh et al]
 
 
