@@ -1,5 +1,10 @@
 ## Hello World!
 
+
+This is where I'm keeping assorted useful links, plus the markdown cheat sheet.  If anyone but me is here, go away!
+
+[Using jupyter notebooks remotely](https://ljvmiranda921.github.io/notebook/2018/01/31/running-a-jupyter-notebook/)
+
 You can use the [editor on GitHub](https://github.com/HoldenM/HoldenM.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
